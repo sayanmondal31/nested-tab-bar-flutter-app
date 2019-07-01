@@ -1,5 +1,7 @@
 # nested_tab_bar
 
+<img src="https://user-images.githubusercontent.com/43213197/60425375-ffb4eb00-9c0f-11e9-8e3b-53cdd7c9691b.gif" width="40%">
+
 A new Flutter project.
 
 ## Getting Started
